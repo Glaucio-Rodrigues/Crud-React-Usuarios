@@ -14,4 +14,6 @@ Sistema full-stack de gerenciamento de usuários (CRUD) construído com React, N
 ![image alt](https://github.com/Glaucio-Rodrigues/Crud-React-Usuarios/blob/main/crudapi3.png?raw=true).
 ![image alt](https://github.com/Glaucio-Rodrigues/Crud-React-Usuarios/blob/main/crudapi4.png?raw=true).
 ![image alt](https://github.com/Glaucio-Rodrigues/Crud-React-Usuarios/blob/main/crudapi5.png?raw=true).
+![image alt](https://github.com/Glaucio-Rodrigues/Crud-React-Usuarios/blob/main/crudapi6.png?raw=true).
+
 
