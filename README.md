@@ -10,3 +10,8 @@ Sistema full-stack de gerenciamento de usuários (CRUD) construído com React, N
 - **Diferenciais:** Validação de caracteres nos campos, reordenação automática de IDs ao deletar e busca (atualização/deleção) por ID ou Nome.
 
 ![image alt](https://github.com/Glaucio-Rodrigues/Crud-React-Usuarios/blob/main/crudapi1.png?raw=true).
+![image alt](https://github.com/Glaucio-Rodrigues/Crud-React-Usuarios/blob/main/crudapi2.png?raw=true).
+![image alt](https://github.com/Glaucio-Rodrigues/Crud-React-Usuarios/blob/main/crudapi3.png?raw=true).
+![image alt](https://github.com/Glaucio-Rodrigues/Crud-React-Usuarios/blob/main/crudapi4.png?raw=true).
+![image alt](https://github.com/Glaucio-Rodrigues/Crud-React-Usuarios/blob/main/crudapi5.png?raw=true).
+
