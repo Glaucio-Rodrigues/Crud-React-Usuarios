@@ -9,4 +9,4 @@ Sistema full-stack de gerenciamento de usuários (CRUD) construído com React, N
 - **Banco de Dados:** Microsoft SQL Server (`mssql`).
 - **Diferenciais:** Validação de caracteres nos campos, reordenação automática de IDs ao deletar e busca (atualização/deleção) por ID ou Nome.
 
-![image alt[(https://github.com/Glaucio-Rodrigues/Crud-React-Usuarios/blob/main/crudapi1.png?raw=true).
+![image alt](https://github.com/Glaucio-Rodrigues/Crud-React-Usuarios/blob/main/crudapi1.png?raw=true).
