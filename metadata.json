@@ -1,0 +1,6 @@
+{
+  "name": "SQL Server REST API",
+  "description": "A REST API connecting to a Microsoft SQL Server handling CRUD operations using Express and mssql.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
